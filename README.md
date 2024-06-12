@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @amankass | Amanuel Kassahun |
+- 👋 Hi, I’m | Amanuel Kassahun | @Amiko_ad |
 - 👀 I’m interested in | GRAPHICS DESIGN | WEBSITE DEVELOPMENT | DIGITAL MARKETING | CONTENT CREATION 
-- 🌱 I’m currently learning MERN Stack Website Development, Digital Marketing, Mastering Graphics Design
+- 🌱 I’m currently Working on MERN Stack Website Development| WordPress Web-Development |Graphics Design| Content Creation 
 - 💞️ I’m looking to collaborate on MERN Stack Web Development
-- 📫 How to reach me You can coontact me in Telegram | https://t.me/Amiko_ade | Instagram | amiko_ad |
+- 📫 How to reach me? You can coontact me in Telegram | https://t.me/Amiko_ad | Instagram | amiko_ad |
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
