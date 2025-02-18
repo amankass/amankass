@@ -1,4 +1,4 @@
-- 👋 Hi, I’m | Amanuel Kassahun | @Amiko_ad |
+- 👋 Hi, I’m | Amanuel Kassahun | @aman_kassahun1 |
 - 👀 I’m interested in MERN Stack Web Dev |PHP Web Dev | GRAPHICS DESIGN | WEBSITE DEVELOPMENT | DIGITAL MARKETING | CONTENT CREATION 
 - 🌱 I’m currently Working on MERN Stack Website Development| CodeIgniter 4 Php Web Development | WordPress Web-Development |Graphics Design| Content Creation 
 - 💞️ I’m looking to collaborate on MERN Stack Web Development
